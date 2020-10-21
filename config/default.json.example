@@ -5,7 +5,7 @@
       "prefix": "!",
       "debug": true
   },
-  "rvn": {
+  "taona": {
     "paytxfee": .01,
     "config": {
       "port": 3335,
