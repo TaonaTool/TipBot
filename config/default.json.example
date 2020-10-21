@@ -8,7 +8,7 @@
   "taona": {
     "paytxfee": .01,
     "config": {
-      "port": 3335,
+      "port": 8757,
       "user": "username",
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
     }
