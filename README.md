@@ -7,7 +7,7 @@ Features:
 - Dynamic plugin loading with permission support.
 - **out of the box Supported Coins**
     - Dogecoin (DOGE)
-    - Ravencoin (RVN)
+    - Taona (TNA)
     - LBRY Credits (LBC)
     - Uniform Fiscal Object (UFO)
     - ~~Proton (PROTON)~~ Phase(PHASE)
